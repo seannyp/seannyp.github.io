@@ -1,6 +1,6 @@
 .blogpost-title {
-    color: #b90504;
-    font-family: 'Homemade Apple', cursive;
+    color: #006bb3;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 .article-info {
@@ -94,8 +94,11 @@ a {
 }
 
 .title {
+/* Original color used
     color: #b90504;
-    font-family: 'Homemade Apple', cursive;
+  */
+    color: #006bb3;
+    font-family: 'Shadows Into Light', cursive;
     font-size: 48px;
 }
 
@@ -233,6 +236,10 @@ a {
     display: none;
 }
 
+.about-question {
+  font-family: 'Shadows Into Light', cursive;
+}
+
 /* Larger than phone */
 @media (min-width: 550px) {
     .header {
@@ -320,7 +327,8 @@ a {
     }
 
     .navbar-link.active {
-        color: #b90504;
+        /* color: #b90504; */
+        color: #006bb3;
     }
 
     .has-docked-nav .navbar {
@@ -420,11 +428,14 @@ a {
 
     .popover-link:hover {
         color: #fff;
-        background: #b90504;
+        /* background: #b90504; */
+        background: #006bb3;
     }
 
     .popover-link:hover,
     .popover-item:first-child .popover-link:hover:after {
-        border-bottom-color: #b90504;
+        /* border-bottom-color: #b90504; */
+        border-bottom-color: #006bb3;
+
     }
 }
