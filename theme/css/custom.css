@@ -1,6 +1,6 @@
 .blogpost-title {
-    color: #006bb3;
-    font-family: 'Shadows Into Light', cursive;
+    color: #000000;
+    font-family: 'Raleway', cursive;
 }
 
 .article-info {
@@ -98,7 +98,7 @@ a {
     color: #b90504;
   */
     color: #006bb3;
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Raleway', cursive;
     font-size: 48px;
 }
 
@@ -138,7 +138,7 @@ a {
 }
 
 .home-header {
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Raleway', cursive;
 }
 
 .comment-header {
@@ -312,7 +312,7 @@ a {
     .navbar-item {
         position: relative;
         float: left;
-        margin-bottom: 0;
+        margin-bottom: 0Wowytho
     }
 
     .navbar-link {
